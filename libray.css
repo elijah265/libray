@@ -138,21 +138,25 @@ button{
       
 }
 
-
+.login{
+    font-size: 17px;
+}
 
 .signup{
     background-color: #0376b8;
     width: 85px;
     height: 30px;
+    border: none;
     border-radius: 6px;
     text-align: center;
-    padding: auto;
+    
 }
 
 .signup a{
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
+    
 }
 
  
